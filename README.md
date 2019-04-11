@@ -12,7 +12,7 @@
 |0002|冒泡排序|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/BubbleSort.md)|:star:|排序|
 |0003|选择排序|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/SelectionSort.md)|:star:|排序|
 |0004|插入排序|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/InsertSort.md)|:star:|排序|
-|0005|递归求数组最大值|[查看题解]()|:star:|递归及递归复杂度分析，master公式|
+|0005|递归求数组最大值|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/Recursive_getMax.md)|:star:|递归及递归复杂度分析，master公式|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
