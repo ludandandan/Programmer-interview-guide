@@ -14,7 +14,7 @@
 |0004|插入排序|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/InsertSort.md)|:star:|排序|
 |0005|递归求数组最大值|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/Recursive_getMax.md)|:star:|递归及递归复杂度分析，master公式|
 |0006|归并排序|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/MergeSort.md)|:star:|排序，递归，分治|
-|0006|求数组的小和|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/smallSum.md)|:star:|归并排序，递归，分治|
+|0006|求数组的小和|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/smallSum.md)|:star: :star: :star:|归并排序，递归，分治|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
