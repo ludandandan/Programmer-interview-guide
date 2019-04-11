@@ -27,7 +27,7 @@ void traversing(vector<int> A, vector<int> B)
 ```
 * **方法2：二分查找**
 
-> 由于A数组是有序的，在一个有序数组中查找某个元素可以使用二分查找的方法。仍需遍历B，将B中每个元素取出来使用二分搜索的方式在A中查找。时间复杂度O(M*log(N))。
+> 由于A数组是有序的，在一个有序数组中查找某个元素可以使用二分查找的方法。仍需遍历B，将B中每个元素取出来使用二分搜索的方式在A中查找。时间复杂度O(M*log(N))，以2为底。
 ```c++
 void binarySearch(vector<int> A, vector<int> B)
 {
