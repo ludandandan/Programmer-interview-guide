@@ -1,5 +1,5 @@
 ## 找出B中不属于A的元素并打印
-[完整代码]()
+[完整代码](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/findBNotBelongToA.cpp)
 
 **题目：** 
 > 有一个有序数组A，一个无序数组B，请打印B中所有不在A中的数。A的数组长度为N，B的数组长度为M，写出算法并分析其复杂度。
