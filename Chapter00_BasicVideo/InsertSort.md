@@ -1,5 +1,5 @@
 ## 插入排序
-[完整代码]()
+[完整代码](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/InsertSort.cpp)
 
 **题目：**
 > 插入排序细节及复杂度分析。数组长度N。
