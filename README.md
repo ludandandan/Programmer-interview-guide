@@ -16,6 +16,7 @@
 |0006|归并排序|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/MergeSort.md)|:star:|排序，递归，分治|
 |0006|求数组的小和|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/smallSum.md)|:star: :star: :star:|归并排序，递归，分治|
 |0007|求数组的逆序对|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/print_ReverseOrderPair.md)|:star: :star: :star:|归并排序，递归，类似小和|
+|0008|partition|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/partition.md)|:star:|思想用于快排|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
