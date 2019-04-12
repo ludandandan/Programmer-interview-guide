@@ -1,5 +1,5 @@
 ## 快速排序
-[完整代码](ttps://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/QuickSort.cpp)
+[完整代码](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/QuickSort.cpp)
 
 **题目：**
 > 随机快排的细节及复杂度分析，数组长度为N。
