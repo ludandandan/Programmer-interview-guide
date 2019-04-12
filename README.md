@@ -18,6 +18,7 @@
 |0007|求数组的逆序对|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/print_ReverseOrderPair.md)|:star: :star: :star:|归并排序，递归，类似小和|
 |0008|partition|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/partition.md)|:star:|思想用于快排|
 |0009|荷兰国旗问题|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/NetherlandsFlag.md)|:star:|思想用于快排|
+|0010|随机快排|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/QuickSort.md)|:star: :star:|排序，递归，partition|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
