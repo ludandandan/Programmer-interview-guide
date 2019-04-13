@@ -20,6 +20,7 @@
 |0009|荷兰国旗问题|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/NetherlandsFlag.md)|:star:|思想用于快排|
 |0010|随机快排|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/QuickSort.md)|:star: :star:|排序，递归，partition|
 |0011|堆排序|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/HeapSort.md)|:star: :star:|排序，大根堆|
+|0012|随时找到数据流中的中位数|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/MedianHolder.md)|:star: :star: :star: :star:|大根堆，小根堆|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
