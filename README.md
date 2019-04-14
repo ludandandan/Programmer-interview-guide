@@ -22,7 +22,7 @@
 |0011|堆排序|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/HeapSort.md)|:star: :star:|排序，大根堆，不稳定|
 |0012|随时找到数据流中的中位数|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/MedianHolder.md)|:star: :star: :star: :star:|大根堆，小根堆|
 |0013|比较器|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/comparator.md)|:star: :star:|排序的稳定性|
-|0013|数组排序之后相邻数的最大差值|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/maxGap.md)|:star: :star:|桶排序|
+|0014|数组排序之后相邻数的最大差值|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/maxGap.md)|:star: :star:|桶排序|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
