@@ -22,6 +22,8 @@
 > 5. 快速排序：不具有稳定性。partition的过程无法做到稳定。所有01标准问题在时间复杂度O(N)，空间复杂度O(1)的要求下都无法做到稳定。
 > 6. 堆排序：不具有稳定性。堆排序insert元素向上调整时，与沿途的父节点交换，不会关心相同元素的问题。
 
+> 堆的建立也需要比较器。当对自定义建立堆时，它需要知道按照哪种规则进行排列，故需要在定义优先级队列时放比较器进去。堆的比较器和sort的还游戏不同。less（a<b）代表大根堆，greater（a>b）代表小根堆。
+> 
 ```c++
 struct Student{
     string name;
@@ -32,8 +34,22 @@ struct Student{
 
 bool ScoreAscendingComparator(Student o1, Student o2)
 {
-    return o1.score<o2.score;
+    return o1.score<o2.score; //得分少的放在前面
 }
+struct ScoreLessComparator{
+    bool operator() (Student o1, Student o2)
+    {
+        return o1.score<o2.score; //less是大根堆
+    }
+};
+
+struct ScoreGreaterComparator{
+    bool operator() (Student o1, Student o2)
+    {
+        return o1.score>o2.score;//greater是小根堆
+    }
+};
+
 bool IdAscendingComparator(Student o1, Student o2)
 {
     return o1.id<o2.id;
@@ -64,6 +80,39 @@ int main()
         cout << w.name << ",";
     }
     cout << endl; //LUDan4, LUDan3, LUDan1, LUDan5, LUDan2
+
+    //建立降序队列，大根堆
+    priority_queue<Student, vector<Student>, ScoreLessComparator> MaxHeap;
+    MaxHeap.push(A1);
+    MaxHeap.push(A2);
+    MaxHeap.push(A3);
+    MaxHeap.push(A4);
+    MaxHeap.push(A5);
+
+    cout << "MaxHeap: " << endl;
+    while(!MaxHeap.empty())
+    {
+        cout << MaxHeap.top().name << ",";
+        MaxHeap.pop();
+    }
+    cout << endl;// LUDan2, LUDan1, LUDan3, LUDan4, LUDan5
+
+    //建立小根堆
+    priority_queue<Student, vector<Student>, ScoreGreaterComparator> MinHeap;
+    MinHeap.push(A1);
+    MinHeap.push(A2);
+    MinHeap.push(A3);
+    MinHeap.push(A4);
+    MinHeap.push(A5);
+
+    cout << "MinHeap: " << endl;
+    while(!MinHeap.empty())
+    {
+        cout << MinHeap.top().name << ",";
+        MinHeap.pop();
+    }
+    cout << endl; // LUDan5 LUDan4, LUDan3, LUDan1, LUDan2
 }
+
 
 ```
