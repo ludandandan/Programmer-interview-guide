@@ -1,5 +1,5 @@
 ## 数组排序之后相邻两数的最大差值
-[完整代码](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/maxGap.md)
+[完整代码](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/maxGap.cpp)
 
 **题目：**
 > 给定一个整型数组arr，返回排序后的相邻两数的最大差值。例如arr=[9,3,1,10]，如果排序，结果为[1,3,9,10]，9和3的差为最大差值，故返回6。若arr=[5,5,5,5]，则返回0。要求如果arr的长度为N，时间复杂度要做到O(N)。
