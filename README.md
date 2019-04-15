@@ -26,7 +26,7 @@
 |0015|设计一个有getMi功能的栈|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/getMin.md)|:star:|栈|
 |0016|设计一个有getMi功能的栈|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/getMin.md)|:star:|栈，队列|
 |0017|用队列结构实现栈&用栈结构实现队列|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/stackAndQueueConvert.md)|:star: :star:|栈，队列|
-|0019|猫狗队列|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/CatDogQueue.md)|:star:|队列，类|
+|0018|猫狗队列|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/CatDogQueue.md)|:star:|队列，类|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
