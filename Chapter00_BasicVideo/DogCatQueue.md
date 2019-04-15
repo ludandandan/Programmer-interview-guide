@@ -1,5 +1,5 @@
 ## 猫狗队列
-[完整代码](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/CatDogQueue.cpp)
+[完整代码](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/DogCatQueue.cpp)
 
 **题目：**
 >宠物，狗和猫的类如下(java代码)：
