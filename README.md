@@ -28,6 +28,7 @@
 |0017|用队列结构实现栈&用栈结构实现队列|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/stackAndQueueConvert.md)|:star: :star:|栈，队列|
 |0018|猫狗队列|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/DogCatQueue.md)|:star:|队列，类|
 |0019|转圈打印矩阵|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/spiralOrderPrint.md)|:star:|矩阵|
+|0020|将正方形矩阵顺时针旋转90度|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/rotateMatrix.md)|:star:|矩阵|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
