@@ -27,6 +27,10 @@ public:
         minStack.pop();
         dataStack.pop();
     }
+    int top()
+    {
+        return dataStack.top();
+    }
     int getMin()
     {
         if(dataStack.empty()) throw runtime_error("the stack is empty!");
@@ -41,6 +45,7 @@ int main()
     s.push(4);
     s.push(3);
     s.push(6);
+    cout << s.top() << endl;
     cout << "getMin:" << endl;
     cout << s.getMin() << endl;
     s.pop();
