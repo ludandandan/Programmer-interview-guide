@@ -24,7 +24,7 @@
 |0013|比较器|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/comparator.md)|:star: :star:|排序的稳定性|
 |0015|用数组实现大小固定的队列和栈|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/arrayToStackQueue.md)|:star: :star:|栈，队列|
 |0015|设计一个有getMi功能的栈|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/getMin.md)|:star:|栈|
-
+|0015|设计一个有getMi功能的栈|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/getMin.md)|:star:|栈，队列|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
