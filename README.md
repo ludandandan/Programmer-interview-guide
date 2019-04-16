@@ -30,6 +30,7 @@
 |0020|转圈打印矩阵|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/spiralOrderPrint.md)|:star:|矩阵|
 |0021|将正方形矩阵顺时针旋转90度|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/rotateMatrix.md)|:star:|矩阵|
 |0022|之字打印矩阵|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/printMatrixZigZag.md)|:star:|矩阵|
+|0023|在行和列都排好序的矩阵中找数|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/isContainsInMatrix.md)|:star:|矩阵|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
