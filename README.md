@@ -32,6 +32,7 @@
 |0022|之字打印矩阵|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/printMatrixZigZag.md)|:star:|矩阵|
 |0023|在行和列都排好序的矩阵中找数|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/isContainsInMatrix.md)|:star:|矩阵|
 |0024|打印两个有序链表的公共部分|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/printCommonPart.md)|:star:|链表|
+|0025|判断链表是否为回文结构|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/ListNodeIsPalindrome.md)|:star:|链表|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
