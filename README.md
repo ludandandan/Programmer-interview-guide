@@ -33,6 +33,7 @@
 |0023|在行和列都排好序的矩阵中找数|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/isContainsInMatrix.md)|:star:|矩阵|
 |0024|打印两个有序链表的公共部分|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/printCommonPart.md)|:star:|链表|
 |0025|判断链表是否为回文结构|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/ListNodeIsPalindrome.md)|:star:|链表|
+|0026|将单链表按某值划分为左边小，中间相等，右边大的形式|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/ListPartition.md)|:star:|链表，荷兰国旗|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
