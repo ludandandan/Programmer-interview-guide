@@ -35,6 +35,7 @@
 |0025|判断链表是否为回文结构|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/ListNodeIsPalindrome.md)|:star:|链表|
 |0026|将单链表按某值划分为左边小，中间相等，右边大的形式|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/ListPartition.md)|:star: :star:|链表，荷兰国旗|
 |0027|复制含有随机指针节点的链表|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/copyListWithRandom.md)|:star: :star:|链表，哈希表|
+|0028|两个链表相交的一系列问题|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/FindFirstIntersectNode.md)|:star: :star: :star: :star:|链表，哈希表|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
