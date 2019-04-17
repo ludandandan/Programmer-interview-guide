@@ -37,6 +37,7 @@
 |0027|复制含有随机指针节点的链表|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/copyListWithRandom.md)|:star: :star:|链表，哈希表|
 |0028|两个链表相交的一系列问题|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/FindFirstIntersectNode.md)|:star: :star: :star: :star:|链表，哈希表|
 |0029|二叉树的先序，中序和后序遍历|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/PreInPosTraversing.md)|:star: :star: |二叉树|
+|0030|带父节点的二叉树中找到一个节点的后继节点，前驱节点|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/getSuccessorNode.md)|:star: :star: |二叉树|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
