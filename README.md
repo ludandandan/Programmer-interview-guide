@@ -34,6 +34,7 @@
 |0024|打印两个有序链表的公共部分|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/printCommonPart.md)|:star:|链表|
 |0025|判断链表是否为回文结构|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/ListNodeIsPalindrome.md)|:star:|链表|
 |0026|将单链表按某值划分为左边小，中间相等，右边大的形式|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/ListPartition.md)|:star: :star:|链表，荷兰国旗|
+|0027|复制含有随机指针节点的链表|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/copyListWithRandom.md)|:star: :star:|链表，哈希表|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
