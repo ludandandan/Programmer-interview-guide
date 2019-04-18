@@ -45,6 +45,8 @@ bool isCBT(TreeNode *root)
         if(leaf && (cur->left!=nullptr || cur->right!=nullptr)) return false;
         if(cur->left!=nullptr) q.push(cur->left);
         if(cur->right!=nullptr) q.push(cur->right);
+        //两个孩子不全，那就开启那个阶段
+        //if(cur->left==nullptr || cur->right==nullptr) leaf = true;
         else //有左没右，左右都没有，两个孩子不是都全
         {
             leaf = true;
