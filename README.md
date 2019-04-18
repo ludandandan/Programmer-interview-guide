@@ -39,6 +39,7 @@
 |0029|二叉树的先序，中序和后序遍历|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/PreInPosTraversing.md)|:star: :star: |二叉树|
 |0030|带父节点的二叉树中找到一个节点的后继节点，前驱节点|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/getSuccessorNode.md)|:star: :star: |二叉树|
 |0031|二叉树的序列化和反序列化|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/serial.md)|:star: |二叉树，字符串分割函数，stoi，to_string|
+|0032|判断是否为平衡二叉树|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/isBalanceTree.md)|:star: |二叉树，平衡性|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
