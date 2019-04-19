@@ -1,5 +1,6 @@
 ## 设计RandomPool结构
 [完整代码](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/RandomPool.cpp)
+
 **题目：**
 
 >  设计一种结构，在该结构中有如下功能：
