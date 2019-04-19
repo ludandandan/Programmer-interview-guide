@@ -42,7 +42,7 @@
 |0032|判断是否为平衡二叉树|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/isBalanceTree.md)|:star: |二叉树，平衡性|
 |0033|判断是否为搜索二叉树|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/isBST.md)|:star: |搜索二叉树|
 |0034|判断是否为完全二叉树|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/isCBT.md)|:star: |完全二叉树|
-|0035|求完全二叉树的节点个数|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/nodeNum.md)|:star: |完全二叉树，递归|
+|0035|求完全二叉树的节点个数|[查看题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/nodeNum.md)|:star: :star:|完全二叉树，递归|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
