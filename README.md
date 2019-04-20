@@ -44,6 +44,7 @@
 |0034|判断是否为完全二叉树|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/isCBT.md)|:star: |完全二叉树|
 |0035|求完全二叉树的节点个数|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/nodeNum.md)|:star: :star:|完全二叉树，递归|
 |0036|设计RandomPool结构|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/RandomPool.md)|:star: :star:|哈希表，类|
+|0037|实现并查集结构|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/unionFind.md)|:star: :star:|哈希表，类|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
