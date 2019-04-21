@@ -46,6 +46,7 @@
 |0036|设计RandomPool结构|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/RandomPool.md)|:star: :star:|哈希表，类|
 |0037|实现并查集结构|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/unionFind.md)|:star: :star:|哈希表，类|
 |0038|岛问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/Islands.md)|:star: :star:|并查集，DFS|
+|0039|实现前缀树结构|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/TrieTree.md)|:star: :star:|前缀树|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
