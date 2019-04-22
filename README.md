@@ -48,6 +48,7 @@
 |0038|岛问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/Islands.md)|:star: :star:|并查集，DFS|
 |0039|实现前缀树结构|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/TrieTree.md)|:star: :star:|前缀树|
 |0040|拼接所有字符串产生字典序最小的字符串|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/LowestLexicography.md)|:star: :star:|字符串比较，比较器，贪心|
+|0041|分金条问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/LessMoney.md)|:star: :star:|哈夫曼编码，最小代价，小根堆，贪心|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
