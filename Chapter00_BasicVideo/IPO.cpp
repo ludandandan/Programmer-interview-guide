@@ -37,7 +37,7 @@ int findMaximizedCapital(vector<int> costArr, vector<int> profitArr, int w, int 
         Node *node = new Node(costArr[i], profitArr[i]);
         costMin.push(node);
     }
-    while(w>=costMin.top()->cost && !costMin.empty())
+    while(!costMin.empty() && w>=costMin.top()->cost)
     {
         Node *node = costMin.top();
         costMin.pop();
@@ -49,7 +49,7 @@ int findMaximizedCapital(vector<int> costArr, vector<int> profitArr, int w, int 
         profitMax.pop();
         k--;
         w += node->profit;
-        while(w>=costMin.top()->cost && !costMin.empty())
+        while(!costMin.empty() && w>=costMin.top()->cost)
         {
             profitMax.push(costMin.top());
             costMin.pop();
