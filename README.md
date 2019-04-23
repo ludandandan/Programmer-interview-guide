@@ -55,6 +55,7 @@
 |0045|汉诺塔问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/hanoi.md)|:star: :star: :star:|递归|
 |0046|打印字符串的全部子序列|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/printAllSubsquences.md)|:star: :star:|递归|
 |0047|打印字符串的全排列|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/printAllPermutations.md)|:star: :star:|递归|
+|0048|:cow:母牛问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/cow.md)|:star:|递归|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
