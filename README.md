@@ -53,6 +53,7 @@
 |0043|安排会议室宣讲问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/BestArrange.md)|:star: :star:|贪心，比较器|
 |0044|n的阶乘|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/Factorial.md)|:star:|暴力递归|
 |0045|汉诺塔问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/hanoi.md)|:star: :star: :star:|递归|
+|0045|打印字符串的全部子序列|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/printAllSubsquences.md)|:star: :star:|递归|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
