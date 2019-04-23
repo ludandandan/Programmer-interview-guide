@@ -1,5 +1,5 @@
 ## n的阶乘
-[完整代码]()
+[完整代码](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/Factorial.cpp)
 
 **题目：**
 > 用递归和非递归方法求n的阶乘。
