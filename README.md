@@ -51,6 +51,7 @@
 |0041|分金条问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/LessMoney.md)|:star: :star:|哈夫曼编码，最小代价，小根堆，贪心|
 |0042|IPO问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/IPO.md)|:star: :star:|贪心，大根堆，小根堆，比较器|
 |0043|安排会议室宣讲问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/BestArrange.md)|:star: :star:|贪心，比较器|
+|0044|n的阶乘|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/Factorial.md)|:star:|暴力递归|
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
