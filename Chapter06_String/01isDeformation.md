@@ -1,5 +1,5 @@
 # 判断两个字符串是否为变形词
-[完整代码](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter06_String/isDeformation.cpp)
+[完整代码](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter06_String/01isDeformation.cpp)
 
 **题目：**
 

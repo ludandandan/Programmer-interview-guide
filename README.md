@@ -72,5 +72,5 @@
 # 字符串问题
 | ID | Title                                  |           C++             |      难度       |          备注               |
 |:--:|:--------------------------------------:|:-------------------------:|:---------------:|:---------------------------:|
-|0001|判断两个字符串是否为变形词|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter06_String/isDeformation.md)|:star:|哈希表|
+|0001|判断两个字符串是否为变形词|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter06_String/01isDeformation.md)|:star:|哈希表|
 <br>[:top:回到顶部](#程序员面试指南)
