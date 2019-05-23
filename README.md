@@ -66,7 +66,7 @@
 | ID | Title                                  |           C++             |      难度       |          备注               |
 |:--:|:--------------------------------------:|:-------------------------:|:---------------:|:---------------------------:|
 |0001|生成窗口最大值数组|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/getWindowsMaxArr.md)|:star: :star:|窗口|
-
+|0002|最大值减去最小值小于或等于num的子数组数量|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/getSubarrayNum.md)|:star: :star: :star:|窗口|
 
 
 
