@@ -2,6 +2,7 @@
 使用C++实现左老师书及视频中出现的题目代码
 ## 目录
 - [基础班题目](#基础班题目)
+- [进阶班题目](#进阶班题目)
 - [栈和队列](#栈和队列)
 - [链表问题](#链表问题)
 - [字符串问题](#字符串问题)
@@ -59,6 +60,26 @@
 |0048|:cow:母牛问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/cow.md)|:star:|递归|
 |0049|最小路径和|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/minPath.md)|:star: :star:|递归，动态规划|
 |0050|数组中任意个数的累加能否得到aim|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter00_BasicVideo/isSumAim.md)|:star: :star:|递归，动态规划|
+
+# 进阶班题目
+
+| ID | Title                                  |           C++             |      难度       |          备注               |
+|:--:|:--------------------------------------:|:-------------------------:|:---------------:|:---------------------------:|
+|0001|生成窗口最大值数组|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/getWindowsMaxArr.md)|:star:|窗口|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 栈和队列
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
@@ -73,4 +94,7 @@
 | ID | Title                                  |           C++             |      难度       |          备注               |
 |:--:|:--------------------------------------:|:-------------------------:|:---------------:|:---------------------------:|
 |0001|判断两个字符串是否为变形词|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter06_String/01isDeformation.md)|:star:|哈希表|
+|0007|字符串的调整与替换|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter06_String/07replace.md)|:star:|逆序复制，空字符|
+
+
 <br>[:top:回到顶部](#程序员面试指南)
