@@ -1,5 +1,5 @@
 # 构造数组的MaxTree
-[完整代码](ttps://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/maxTree.cpp)
+[完整代码](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/maxTree.cpp)
 
 **题目：**
 
