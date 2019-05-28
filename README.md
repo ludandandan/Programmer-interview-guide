@@ -69,6 +69,7 @@
 |0002|最大值减去最小值小于或等于num的子数组数量|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/getSubarrayNum.md)|:star: :star: :star:|窗口|
 |0003|找到无序数组中最小的k个数|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/bfprt.md)|:star: :star: :star: :star:|bfprt|
 |0004|单调栈结构|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/getNearLess.md)|:star: :star:|单调栈|
+|0005|maxTree|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/maxTree.md)|:star: :star:|单调栈，大根堆，哈希表|
 
 
 
