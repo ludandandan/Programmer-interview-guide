@@ -72,6 +72,7 @@
 |0005|maxTree|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/maxTree.md)|:star: :star:|单调栈，大根堆，哈希表|
 |0006|求最大子矩阵的大小|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/maxRectSize.md)|:star: :star: :star:|单调栈|
 |0007|可见的山峰对数量|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/getVisibleNum.md)|:star: :star: :star: :star:|单调栈|
+|0008|二叉树的Moris遍历|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/Moris.md)|:star: :star: :star: :star:|二叉树，遍历|
 
 
 
