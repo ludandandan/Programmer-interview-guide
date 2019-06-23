@@ -1,5 +1,5 @@
 # KMP算法
-[完整代码](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/strStrKMP0.cpp)
+[完整代码](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/strStrKMP.cpp)
 
 **题目：**
 
@@ -56,10 +56,11 @@ code编写：
 
     若已知next[i-1]求next[i]:
     1. 定义一个整型变量cn表示当前跳到的位置，先让cn=next[i-1]，
-       1. 若是match[cn]==match[i-1]那么就让next[i]=cn+1;
-       2. 若是match[cn]!=match[i-1]
+       1. 若是match[cn]==match[i-1]那么就让next[i]=(++cn);同时i++; 
+            **注意cn和i都有变化**
+       1. 若是match[cn]!=match[i-1]
           1. 若是cn>0，说明前面还有数（有cn个数），还可以往前跳，这时让cn=next[cn],再检查match[cn]是否等于match[i-1];
-          2. 若是cn==0了，说明前面没有数了，跳无可跳了，那么就让next[i]=0;
+          2. 若是cn==0了，说明前面没有数了，跳无可跳了，那么就让next[i]=0;同时i++接下来处理新的位置
    
 ```c++
 class Solution{
