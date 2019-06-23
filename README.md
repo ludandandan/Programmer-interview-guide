@@ -77,8 +77,7 @@
 |0010|未排序数值中累加和为给定值的最长子数组系列问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/aimMaxLength.md)|:star: :star:|map，子数组|
 |0011|子数组异或和为0的最多划分|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/mostEOR.md)|:star: :star: :star:|map，子数组|
 |0012|字符串包含问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/strStrKMP.md)|:star: :star: :star: :star:|KMP算法|
-|0013|字符串包含问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/strStrKMP.md)|:star: :star: :star: :star:|KMP算法|
-|0014|扩展字符串使包含两个原始串|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/extendStr.md)|:star: :star:|KMP算法, next数组|
+|0013|扩展字符串使包含两个原始串|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/extendStr.md)|:star: :star:|KMP算法, next数组|
 
 
 
