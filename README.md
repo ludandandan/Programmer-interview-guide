@@ -76,6 +76,7 @@
 |0009|大楼轮廓问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/TreeMap.md)|:star: :star: :star: :star:|平衡搜索二叉树，map，比较器|
 |0010|未排序数值中累加和为给定值的最长子数组系列问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/aimMaxLength.md)|:star: :star:|map，子数组|
 |0011|子数组异或和为0的最多划分|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/mostEOR.md)|:star: :star: :star:|map，子数组|
+|0012|字符串包含问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/strStrKMP.md)|:star: :star: :star: :star:|KMP算法|
 
 
 
@@ -92,11 +93,18 @@
 
 | ID | Title                                  |           C++             |      难度       |          备注               |
 |:--:|:--------------------------------------:|:-------------------------:|:---------------:|:---------------------------:|
-|1001| 设计一个有getMin功能的栈|[查看题解]() |:star:|栈|
+|1012| 将单链表的每K个节点之间逆序|[查看题解]() |:star: :star|栈，链表|
 
 <br>[:top:回到顶部](#程序员面试指南)
 
 # 链表问题
+
+
+| ID | Title                                  |           C++             |      难度       |          备注               |
+|:--:|:--------------------------------------:|:-------------------------:|:---------------:|:---------------------------:|
+|1001| 设计一个有getMin功能的栈|[查看题解]() |:star:|栈|
+
+<br>[:top:回到顶部](#程序员面试指南)
 
 # 字符串问题
 | ID | Title                                  |           C++             |      难度       |          备注               |
