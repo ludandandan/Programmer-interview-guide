@@ -76,9 +76,10 @@
 |0009|大楼轮廓问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/TreeMap.md)|:star: :star: :star: :star:|平衡搜索二叉树，map，比较器|
 |0010|未排序数值中累加和为给定值的最长子数组系列问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/aimMaxLength.md)|:star: :star:|map，子数组|
 |0011|子数组异或和为0的最多划分|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/mostEOR.md)|:star: :star: :star:|map，子数组|
-|0012|字符串包含问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/strStrKMP.md)|:star: :star: :star: :star:|KMP算法|
-|0013|扩展字符串使包含两个原始串|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/extendStr.md)|:star: :star:|KMP算法, next数组|
-|0014|判断t1树中是否有与t2树拓扑结构完全相同的子树（子树包含问题）|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/isSubTree.md)|:star: :star: :star:|KMP算法, next数组, find|
+|0012|求最大搜索二叉树的大小|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/maxBST.md)|:star: :star: :star:|树形dp|
+|0013|字符串包含问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/strStrKMP.md)|:star: :star: :star: :star:|KMP算法|
+|0014|扩展字符串使包含两个原始串|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/extendStr.md)|:star: :star:|KMP算法, next数组|
+|0015|判断t1树中是否有与t2树拓扑结构完全相同的子树（子树包含问题）|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/isSubTree.md)|:star: :star: :star:|KMP算法, next数组, find|
 
 
 
