@@ -81,9 +81,10 @@
 |0014|派对的最大快乐值|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/maxHappy.md)|:star: :star: :star:|树形dp|
 |0015|判断二叉树是否为平衡二叉树|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/isBalance.md)|:star: :star:|树形dp|
 |0016|判断二叉树是否为搜索二叉树|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/isBST.md)|:star: :star:|中序遍历，Moris|
-|0017|字符串包含问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/strStrKMP.md)|:star: :star: :star: :star:|KMP算法|
-|0018|扩展字符串使包含两个原始串|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/extendStr.md)|:star: :star:|KMP算法, next数组|
-|0019|判断t1树中是否有与t2树拓扑结构完全相同的子树（子树包含问题）|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/isSubTree.md)|:star: :star: :star:|KMP算法, next数组, find|
+|0017|判断二叉树是否为完全二叉树|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/isCBT.md)|:star: :star:|按层遍历|
+|0018|字符串包含问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/strStrKMP.md)|:star: :star: :star: :star:|KMP算法|
+|0019|扩展字符串使包含两个原始串|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/extendStr.md)|:star: :star:|KMP算法, next数组|
+|0020|判断t1树中是否有与t2树拓扑结构完全相同的子树（子树包含问题）|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/isSubTree.md)|:star: :star: :star:|KMP算法, next数组, find|
 
 
 
