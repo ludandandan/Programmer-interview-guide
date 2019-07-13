@@ -86,6 +86,7 @@
 |0019|扩展字符串使包含两个原始串|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/extendStr.md)|:star: :star:|KMP算法, next数组|
 |0020|判断t1树中是否有与t2树拓扑结构完全相同的子树（子树包含问题）|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/isSubTree.md)|:star: :star: :star:|KMP算法, next数组, find|
 |0021|子数组的最大异或和|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/maxXOR.md)|:star: :star: :star:|字典树|
+|0022|排成一条线的纸牌博弈问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/win.md)|:star: :star: :star:|动态规划|
 
 
 
