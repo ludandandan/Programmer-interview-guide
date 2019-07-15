@@ -88,6 +88,7 @@
 |0021|子数组的最大异或和|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/maxXOR.md)|:star: :star: :star:|字典树|
 |0022|排成一条线的纸牌博弈问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/win.md)|:star: :star: :star:|动态规划|
 |0023|未排序正数组累加和等于给定值的子数组|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/aimMaxLength2.md)|:star:|双指针，窗口|
+|0024|未排序正数组累加和小于等于给定值的子数组|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter01_AdvancedVideo/aimMaxLength3.md)|:star: :star: :star: :star:|辅助数组，窗口|
 
 
 
