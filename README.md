@@ -126,3 +126,15 @@
 
 
 <br>[:top:回到顶部](#程序员面试指南)
+
+# 笔试题目
+| ID | Title                                  |           C++             |      难度       |          备注               |
+|:--:|:--------------------------------------:|:-------------------------:|:---------------:|:---------------------------:|
+|0001|拼多多-最大乘积|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/pdd/1.md)|:star: :star: :star:||
+|0002|拼多多-大整数相乘|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/pdd/2.md)|:star: :star: :star:||
+|0003|拼多多-六一儿童节|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/pdd/3.md)|:star: :star: :star:||
+|0004|拼多多-迷宫寻路|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/pdd/4.md)|:star: :star: :star:||
+|0005|拼多多-回合制游戏|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/pdd/5.md)|:star: :star: :star:||
+|0006|拼多多-两两配对差值最小|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/pdd/6.md)|:star: :star: :star:||
+|0007|拼多多-选靓号|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/pdd/7.md)|:star: :star: :star:|段错误，通过90%|
+|0008|拼多多-种树|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/pdd/8.md)|:star: :star: :star:|超时，通过90%|
