@@ -138,3 +138,7 @@
 |0006|拼多多-两两配对差值最小|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/pdd/6.md)|:star: :star: :star:||
 |0007|拼多多-选靓号|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/pdd/7.md)|:star: :star: :star:|段错误，通过90%|
 |0008|拼多多-种树|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/pdd/8.md)|:star: :star: :star:|超时，通过90%|
+|0009|拼多多-列表补全|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/pdd/9.md)|:star: :star: :star:||
+|0010|拼多多-数三角形|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/pdd/10.md)|:star: :star: :star:||
+|0011|拼多多-小熊吃糖|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/pdd/11.md)|:star: :star: :star:||
+
