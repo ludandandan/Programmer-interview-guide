@@ -143,4 +143,5 @@
 |0009|拼多多-列表补全|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/pdd/9.md)|:star: :star: :star:||
 |0010|拼多多-数三角形|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/pdd/10.md)|:star: :star: :star:||
 |0011|拼多多-小熊吃糖|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/pdd/11.md)|:star: :star: :star:||
-
+|0012|浪潮-考古遗迹|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/lc/1.md)|:star: :star: :star:|通过率为0|
+|0013|浪潮-铺地砖|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/lc/2.md)|:star: :star: :star:|整型相乘溢出|
