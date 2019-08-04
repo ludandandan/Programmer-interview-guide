@@ -147,3 +147,4 @@
 |0013|浪潮-铺地砖|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/lc/2.md)|:star: :star: :star:|整型相乘溢出|
 |0014|猿辅导-大巴车|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/yfd/1.md)|:star: :star: :star:||
 |0015|猿辅导-拍照队形|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/yfd/2.md)|:star: :star: :star:|含有空格的字符串输入|
+|0016|猿辅导-解压缩字符串|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/yfd/3.md)|:star: :star: :star:|递归，定义返回类型|
