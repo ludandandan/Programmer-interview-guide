@@ -148,3 +148,11 @@
 |0014|猿辅导-大巴车|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/yfd/1.md)|:star: :star: :star:||
 |0015|猿辅导-拍照队形|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/yfd/2.md)|:star: :star: :star:|含有空格的字符串输入|
 |0016|猿辅导-解压缩字符串|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/yfd/3.md)|:star: :star: :star:|递归，定义返回类型|
+|0017|猿辅导-击鼓传花|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/yfd/3.md)|:star: :star: :star:|递归，定义返回类型|
+
+|0018|贝壳-音乐列表|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/bk/4.md)|:star: :star: :star:|动态规划，排列组合|
+
+|0019|贝壳-倒水|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/bk/3.md)|:star: :star: :star:|动态规划，排列组合|
+|0019|贝壳-小明卖食物|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/bk/2.md)|:star: :star: :star:|双指针|
+|0020|贝壳-乔乔的包|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/bk/1.md)|:star: :star: :star:|比较器|
+|0021|贝壳-斐波那契数列|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/bk/5.md)|:star:||
