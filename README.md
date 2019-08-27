@@ -157,3 +157,4 @@
 |0022|中兴-工资频率|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/zx/1.md)|:star:||
 |0022|中兴-树路径乘积最大值(非二叉树)|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/zx/2.md)|:star:||
 |0022|中兴-苹果最多的路径（非二叉树）|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/zx/3.md)|:star:|树形dp|
+|0023|中兴-单词接龙|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/zx/4.md)|:star:|char**|
