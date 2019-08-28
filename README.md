@@ -159,3 +159,4 @@
 |0022|中兴-苹果最多的路径（非二叉树）|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/zx/3.md)|:star:|树形dp|
 |0023|中兴-单词接龙|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/zx/4.md)|:star:|char**|
 |0023|中兴-完全数|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/zx/5.md)|:star:||
+|0023|中兴-反应堆|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/zx/6.md)|:star:||
