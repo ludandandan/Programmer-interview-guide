@@ -202,3 +202,4 @@
 |0062|华为-输入一行字符，分别 统计出英文字母，空格，数字和其他字符个数|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/hw/40.md)|:star:||
 |0063|华为-称砝码|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/hw/41.md)|:star:||
 |0064|华为-学英语|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/hw/42.md)|:star:||
+|0064|华为-迷宫 问题|[题解](https://github.com/ludandandan/Programmer-interview-guide/blob/master/Chapter10/hw/43.md)|:star:||
